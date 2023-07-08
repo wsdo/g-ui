@@ -1,3 +1,3 @@
 # G-UI
 
-base Chatbot UI
+base G-UI
